@@ -1,23 +1,3 @@
-<h1>Title</h1>
+<h1>SQL Zoo Exercises</h1>
 
-<p>description. Check out the <a href=''>final product</a>.</p>
-
-<h2>Lesson's Learned:</h2>
-<ul>
-    <li></li>
-</ul>
-
-<h2>Feature List:</h2>
-<ul>
-    <li></li>
-</ul>
-
-<h2>Project Extensions:</h2>
-<ul>
-    <li></li>
-</ul>
-
-<h2>Language Features Used:</h2>
-<ul>
-    <li></li>
-</ul>
+<p>Practice with SQL from https://sqlzoo.net/wiki/SQL_Tutorial. Going in depth with SELECT queries, AGG functions, JOINs, GROUP BY, and ORDER BY.</p>
